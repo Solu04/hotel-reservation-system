@@ -7,7 +7,7 @@ HotelHub is a premier hotel reservation system that allows users to book accommo
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Authors](#Authors)
 
 ## Features
 
@@ -65,6 +65,6 @@ HotelHub is a premier hotel reservation system that allows users to book accommo
 
 6. After each action, you will be returned to the main menu. Repeat the process to perform additional actions or choose "0" to exit the program.
 
-## AUTHORS
+## Authors
 **Ataboh Hamza**
 **Maryam Maitambari**
