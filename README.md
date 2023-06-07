@@ -66,5 +66,5 @@ HotelHub is a premier hotel reservation system that allows users to book accommo
 6. After each action, you will be returned to the main menu. Repeat the process to perform additional actions or choose "0" to exit the program.
 
 ## Authors
-**Ataboh Hamza**
+**Ataboh Hamza** <br>
 **Maryam Maitambari**
